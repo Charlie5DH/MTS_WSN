@@ -1,0 +1,395 @@
+[
+  {
+    "completions": [
+      {
+        "created_at": 1612291820,
+        "id": 1,
+        "lead_time": 1059.543,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "DiE_VA6Gr3",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "value": {
+              "end": 11080,
+              "instant": false,
+              "start": 10781,
+              "timeserieslabels": [
+                "SDR"
+              ]
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "dpTl0Ee-Rc",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "value": {
+              "end": 20746,
+              "instant": false,
+              "start": 20162,
+              "timeserieslabels": [
+                "SDR"
+              ]
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "IdI1ijTlHA",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "value": {
+              "end": 30473,
+              "instant": false,
+              "start": 29297,
+              "timeserieslabels": [
+                "SDR"
+              ]
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "tV6jzOOH23",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "value": {
+              "end": 45209,
+              "instant": false,
+              "start": 43841,
+              "timeserieslabels": [
+                "SDR"
+              ]
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "8FPE83M1so",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "value": {
+              "end": 57178,
+              "instant": false,
+              "start": 55240,
+              "timeserieslabels": [
+                "SDR"
+              ]
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "4z7-dhphfZ",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "value": {
+              "end": 73653,
+              "instant": false,
+              "start": 73003,
+              "timeserieslabels": [
+                "SDR"
+              ]
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "JzHsq6M3L-",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "value": {
+              "end": 79386,
+              "instant": false,
+              "start": 78875,
+              "timeserieslabels": [
+                "SDR"
+              ]
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "tuJ-IATpDb",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "value": {
+              "end": 110261,
+              "instant": false,
+              "start": 109464,
+              "timeserieslabels": [
+                "SDR"
+              ]
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "xh0y9YoNvm",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "value": {
+              "end": 114330,
+              "instant": false,
+              "start": 113487,
+              "timeserieslabels": [
+                "SDR"
+              ]
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "eu-A90MLOz",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "value": {
+              "end": 126325,
+              "instant": false,
+              "start": 125701,
+              "timeserieslabels": [
+                "SDR"
+              ]
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "mwiapCbEPw",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "value": {
+              "end": 132993,
+              "instant": false,
+              "start": 132120,
+              "timeserieslabels": [
+                "SDR"
+              ]
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "u8t6e-EM35",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "value": {
+              "end": 138015,
+              "instant": false,
+              "start": 136829,
+              "timeserieslabels": [
+                "SDR"
+              ]
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "qQw2ExJPGY",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "value": {
+              "end": 143645,
+              "instant": false,
+              "start": 143348,
+              "timeserieslabels": [
+                "SDR"
+              ]
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "V-ePZYc_rd",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "value": {
+              "end": 155106,
+              "instant": false,
+              "start": 153920,
+              "timeserieslabels": [
+                "SDR"
+              ]
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "M12JH02YBm",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "value": {
+              "end": 163735,
+              "instant": false,
+              "start": 163470,
+              "timeserieslabels": [
+                "SDR"
+              ]
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "xs01Bwj_Lu",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "value": {
+              "end": 164406,
+              "instant": false,
+              "start": 164001,
+              "timeserieslabels": [
+                "SDR"
+              ]
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "PFy0iY-OmO",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "value": {
+              "end": 184068,
+              "instant": false,
+              "start": 182446,
+              "timeserieslabels": [
+                "SDR"
+              ]
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "t64LDv8L6z",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "value": {
+              "end": 184545,
+              "instant": false,
+              "start": 184233,
+              "timeserieslabels": [
+                "SDR"
+              ]
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "mueTMr0iv2",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "value": {
+              "end": 192574,
+              "instant": false,
+              "start": 191982,
+              "timeserieslabels": [
+                "SDR"
+              ]
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "9XwvuAmhtE",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "value": {
+              "end": 206066,
+              "instant": false,
+              "start": 203462,
+              "timeserieslabels": [
+                "SDR"
+              ]
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "aoOqCkVeyT",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "value": {
+              "end": 210408,
+              "instant": false,
+              "start": 208443,
+              "timeserieslabels": [
+                "SDR"
+              ]
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "Yrss9dc61P",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "value": {
+              "end": 213918,
+              "instant": false,
+              "start": 212390,
+              "timeserieslabels": [
+                "SDR"
+              ]
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "kRslLaI-Bv",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "value": {
+              "end": 231193,
+              "instant": false,
+              "start": 228276,
+              "timeserieslabels": [
+                "SDR"
+              ]
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "QFJVVFlygJ",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "value": {
+              "end": 258597,
+              "instant": false,
+              "start": 258160,
+              "timeserieslabels": [
+                "SDR"
+              ]
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "8hYQjZFtKz",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "value": {
+              "end": 265159,
+              "instant": false,
+              "start": 260870,
+              "timeserieslabels": [
+                "SDR"
+              ]
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "BqUwRjQF_F",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "value": {
+              "end": 294808,
+              "instant": false,
+              "start": 294512,
+              "timeserieslabels": [
+                "SDR"
+              ]
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "L88vCHXqBo",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "value": {
+              "end": 298571,
+              "instant": false,
+              "start": 296528,
+              "timeserieslabels": [
+                "SDR"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "csv": "/data/upload/438cd9-dataset.csv"
+    },
+    "id": 0
+  }
+]
