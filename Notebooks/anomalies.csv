@@ -1,0 +1,4 @@
+Timestamp,Module,Type,Temp_Mod,VBus,V_MPPT,V_Panel,hour,day,month,week,weekday,daylight
+2019-07-07 05:58:44,34.B2.9F.A9,P-Solar Panel,7.9,3.266,3.268,0.0,5,7,7,27,6,0
+2019-07-07 06:03:57,34.B2.9F.A9,P-Solar Panel,7.9,3.254,3.259,0.0,6,7,7,27,6,0
+2019-07-07 11:08:56,34.B2.9F.A9,P-Solar Panel,7.9,3.236,3.237,15.745,11,7,7,27,6,1
